@@ -1,0 +1,67 @@
+[
+  {
+    "id": 1,
+    "name": "Rafivali",
+    "age": 22,
+    "title": "Frontend Developer",
+    "email": "rafivalishaik@gmail.com"
+  },
+  {
+    "id": 2,
+    "name": "Ananya Sharma",
+    "age": 24,
+    "title": "UI/UX Designer",
+    "email": "ananya@example.com"
+  },
+  {
+    "id": 3,
+    "name": "Vikram Malhotra",
+    "age": 28,
+    "title": "Backend Engineer",
+    "email": "vikram@example.com"
+  },
+  {
+    "id": 4,
+    "name": "Priya Patel",
+    "age": 26,
+    "title": "Product Manager",
+    "email": "priya@example.com"
+  },
+  {
+    "id": 5,
+    "name": "Rohan Das",
+    "age": 23,
+    "title": "DevOps Engineer",
+    "email": "rohan@example.com"
+  },
+  {
+    "id": 6,
+    "name": "Sneha Reddy",
+    "age": 25,
+    "title": "Data Scientist",
+    "email": "sneha@example.com"
+  
+  },
+  {
+    "id": 7,
+    "name": "Hafizun",
+    "age": 21,
+    "title": "Java Full-Stack",
+    "email": "hafizunrafi@example.com"
+  
+  },
+  {
+    "id": 8,
+    "name": "HussainBee",
+    "age": 38,
+    "title": "President",
+    "email": "hussainaa@example.com"
+  },
+  {
+    "id": 9,
+    "name": "Allauddin",
+    "age": 45,
+    "title": "Civil Enigeering",
+    "email": "alluddinshaik@example.com"
+  }
+]
